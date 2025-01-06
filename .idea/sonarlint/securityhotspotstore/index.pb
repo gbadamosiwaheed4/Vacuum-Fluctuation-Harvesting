@@ -9,3 +9,5 @@ Y
 )contracts/quantum-energy-marketplace.clar,d/3/d321ec0d0d54bf9a844dcdafb93e56c122f87248
 X
 (tests/quantum-energy-marketplace.test.ts,b/6/b6508e5360fd13e9a7500732a8be2a8449c764f6
+[
++contracts/particle-physics-integration.clar,8/9/89bfefcb08e0c65841261407f01ccc43d231a86c
