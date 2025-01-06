@@ -13,3 +13,5 @@ X
 +contracts/particle-physics-integration.clar,8/9/89bfefcb08e0c65841261407f01ccc43d231a86c
 Z
 *tests/particle-physics-integration.test.ts,c/a/ca20a128c54b8b8e7cb381567645c1b138121abe
+P
+ contracts/vacuum-energy-nft.clar,0/2/0239fbdb65d9abf53a1f73b056864f59b3bdd496
