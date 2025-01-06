@@ -7,3 +7,5 @@ W
 'tests/vacuum-energy-hotspot-nft.test.ts,9/7/97e747036780c500e642572103bfa9074bd2ae43
 Y
 )contracts/quantum-energy-marketplace.clar,d/3/d321ec0d0d54bf9a844dcdafb93e56c122f87248
+X
+(tests/quantum-energy-marketplace.test.ts,b/6/b6508e5360fd13e9a7500732a8be2a8449c764f6
